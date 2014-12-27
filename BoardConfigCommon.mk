@@ -28,9 +28,6 @@ TARGET_USE_QCOM_BIONIC_OPTIMIZATION := true
 # Charger
 BOARD_CHARGER_RES := device/samsung/qcom-common/charger
 
-# CMHW
-BOARD_HARDWARE_CLASS += hardware/samsung/cmhw
-
 # Graphics
 USE_OPENGL_RENDERER := true
 TARGET_USES_C2D_COMPOSITION := true
